@@ -11,6 +11,7 @@ public class Product {
 		this.pid=101;
 		this.product_name="keyboard";
 		this.price=245.6f;
+		//This() keyword refers to call one constructor inside another
 	}
 	
 	public Product(int pid,String product_name,float price)//default constructor
