@@ -1,8 +1,10 @@
 //Program to demonstrate abstraction
 package com.tnsif.dayeight.abstraction;
 
-public class Square extends Shape{
+public class Square extends Shape
+{
 	private float side;
+	
 	public Square()
 	{
 		side=2.0f;

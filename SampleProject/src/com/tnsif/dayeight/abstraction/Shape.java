@@ -2,7 +2,8 @@
 package com.tnsif.dayeight.abstraction;
 
 //abstract class
-public abstract class Shape {
+public abstract class Shape 
+{
      protected float area;
      
      //abstract method 
@@ -14,4 +15,3 @@ public abstract class Shape {
 		 System.out.println("Area of shape is "+area);
 	 }
 }
-	 
