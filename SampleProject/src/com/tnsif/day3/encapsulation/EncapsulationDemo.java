@@ -1,4 +1,4 @@
-package com.tnsif.daythree.encapsulation;
+package com.tnsif.day3.encapsulation;
 
 public class EncapsulationDemo {
 	public static void main(String[] args) 
