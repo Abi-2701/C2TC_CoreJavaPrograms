@@ -1,5 +1,5 @@
 //Program to demonstrate FunctionalInterface
-package com.tnsif.dayeight.interfaces.functionalinterfaces;
+package com.tnsif.day8.interfaces.functionalinterfaces;
 
 public class FunctionalInterfaceDemo {
 

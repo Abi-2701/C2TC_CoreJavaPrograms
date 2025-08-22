@@ -1,5 +1,5 @@
 //Program to demonstrate FunctionalInterface - Greet Interface
-package com.tnsif.dayeight.interfaces.functionalinterfaces;
+package com.tnsif.day8.interfaces.functionalinterfaces;
 
 @FunctionalInterface
 public interface GreetInterface {
