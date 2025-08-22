@@ -1,4 +1,4 @@
-package com.tnsif.daythree.scannerdemo;
+package com.tnsif.day3.scannerdemo;
 
 public class Person {
 
