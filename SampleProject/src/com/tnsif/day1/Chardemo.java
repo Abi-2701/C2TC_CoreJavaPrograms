@@ -1,4 +1,4 @@
-package com.tnsif.dayOne;
+package com.tnsif.day1;
 
 public class Chardemo {
 
