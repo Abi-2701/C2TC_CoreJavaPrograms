@@ -1,4 +1,4 @@
-package com.tnsif.daytwo;
+package com.tnsif.day2;
 
 public class IfDemo {
 
