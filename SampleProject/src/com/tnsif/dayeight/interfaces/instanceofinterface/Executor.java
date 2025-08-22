@@ -8,7 +8,7 @@ public class Executor {
 		p1.call();
 		p1.sms();
 		
-		p1 = PhoneFactory.createPhone("Jio"); 
+		p1 = PhoneFactory.createPhone("Jio");
 		p1.call();
 		p1.sms();
 		
