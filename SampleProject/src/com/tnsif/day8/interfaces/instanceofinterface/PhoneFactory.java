@@ -1,5 +1,5 @@
 //Program to define factory method
-package com.tnsif.dayeight.interfaces.instanceofinterface;
+package com.tnsif.day8.interfaces.instanceofinterface;
 
 public class PhoneFactory 
 {
