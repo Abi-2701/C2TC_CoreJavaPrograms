@@ -1,5 +1,5 @@
 //Program to define abstract class
-package com.tnsif.dayeight.abstraction;
+package com.tnsif.day7.abstraction;
 
 //abstract class
 public abstract class Shape 
