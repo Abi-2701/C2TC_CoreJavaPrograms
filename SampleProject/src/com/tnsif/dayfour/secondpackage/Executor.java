@@ -1,7 +1,7 @@
 //Program to demonstrate accessing classes and methods of different package
 package com.tnsif.dayfour.secondpackage;
 
-import com.tnsif.dayfour.firstpackage.Base;
+import com.tnsif.day4.firstpackage.Base;
 
 public class Executor {
 	public static void main(String[] args) {
