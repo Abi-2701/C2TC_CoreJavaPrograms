@@ -1,6 +1,5 @@
 package com.tnsif.day22.v1.usingpostgresql;
 
-
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
